@@ -1,0 +1,196 @@
+2023-11-03T10:44:11+00:00 CRITICAL Uncaught Error: Failed opening required 'H:\OSPanel\domains\WooCoomerceLoftBlog/wp-content/themes/test/inc/woocommerce-hooks' (include_path='.') in H:\OSPanel\domains\WooCoomerceLoftBlog\wp-content\themes\test\functions.php:3
+Stack trace:
+#0 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-settings.php(600): include()
+#1 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-config.php(96): require_once('H:\\OSPanel\\doma...')
+#2 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-load.php(50): require_once('H:\\OSPanel\\doma...')
+#3 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-admin\admin-ajax.php(22): require_once('H:\\OSPanel\\doma...')
+#4 {main}
+  thrown in H:\OSPanel\domains\WooCoomerceLoftBlog\wp-content\themes\test\functions.php on line 3
+
+2023-11-03T10:46:12+00:00 CRITICAL Uncaught Error: Failed opening required 'H:\OSPanel\domains\WooCoomerceLoftBlog/wp-content/themes/test/inc/woocommerce-hooks.php' (include_path='.') in H:\OSPanel\domains\WooCoomerceLoftBlog\wp-content\themes\test\functions.php:3
+Stack trace:
+#0 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-settings.php(600): include()
+#1 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-config.php(96): require_once('H:\\OSPanel\\doma...')
+#2 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-load.php(50): require_once('H:\\OSPanel\\doma...')
+#3 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-admin\admin-ajax.php(22): require_once('H:\\OSPanel\\doma...')
+#4 {main}
+  thrown in H:\OSPanel\domains\WooCoomerceLoftBlog\wp-content\themes\test\functions.php on line 3
+
+2023-11-03T10:48:13+00:00 CRITICAL Uncaught Error: Failed opening required 'H:\OSPanel\domains\WooCoomerceLoftBlog/wp-content/themes/test/inc/woocommerce-hooks.php' (include_path='.') in H:\OSPanel\domains\WooCoomerceLoftBlog\wp-content\themes\test\functions.php:3
+Stack trace:
+#0 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-settings.php(600): include()
+#1 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-config.php(96): require_once('H:\\OSPanel\\doma...')
+#2 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-load.php(50): require_once('H:\\OSPanel\\doma...')
+#3 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-admin\admin-ajax.php(22): require_once('H:\\OSPanel\\doma...')
+#4 {main}
+  thrown in H:\OSPanel\domains\WooCoomerceLoftBlog\wp-content\themes\test\functions.php on line 3
+
+2023-11-03T10:50:14+00:00 CRITICAL Uncaught Error: Failed opening required 'H:\OSPanel\domains\WooCoomerceLoftBlog/wp-content/themes/test/inc/woocommerce-hooks.php' (include_path='.') in H:\OSPanel\domains\WooCoomerceLoftBlog\wp-content\themes\test\functions.php:3
+Stack trace:
+#0 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-settings.php(600): include()
+#1 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-config.php(96): require_once('H:\\OSPanel\\doma...')
+#2 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-load.php(50): require_once('H:\\OSPanel\\doma...')
+#3 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-admin\admin-ajax.php(22): require_once('H:\\OSPanel\\doma...')
+#4 {main}
+  thrown in H:\OSPanel\domains\WooCoomerceLoftBlog\wp-content\themes\test\functions.php on line 3
+
+2023-11-03T10:52:15+00:00 CRITICAL Uncaught Error: Failed opening required 'H:\OSPanel\domains\WooCoomerceLoftBlog/wp-content/themes/test/inc/woocommerce-hooks.php' (include_path='.') in H:\OSPanel\domains\WooCoomerceLoftBlog\wp-content\themes\test\functions.php:3
+Stack trace:
+#0 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-settings.php(600): include()
+#1 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-config.php(96): require_once('H:\\OSPanel\\doma...')
+#2 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-load.php(50): require_once('H:\\OSPanel\\doma...')
+#3 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-admin\admin-ajax.php(22): require_once('H:\\OSPanel\\doma...')
+#4 {main}
+  thrown in H:\OSPanel\domains\WooCoomerceLoftBlog\wp-content\themes\test\functions.php on line 3
+
+2023-11-03T10:53:29+00:00 CRITICAL Uncaught Error: Failed opening required 'H:\OSPanel\domains\WooCoomerceLoftBlog/wp-content/themes/test/inc/woocommerce-hooks.php' (include_path='.') in H:\OSPanel\domains\WooCoomerceLoftBlog\wp-content\themes\test\functions.php:3
+Stack trace:
+#0 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-settings.php(600): include()
+#1 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-config.php(96): require_once('H:\\OSPanel\\doma...')
+#2 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-load.php(50): require_once('H:\\OSPanel\\doma...')
+#3 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-blog-header.php(13): require_once('H:\\OSPanel\\doma...')
+#4 H:\OSPanel\domains\WooCoomerceLoftBlog\index.php(17): require('H:\\OSPanel\\doma...')
+#5 {main}
+  thrown in H:\OSPanel\domains\WooCoomerceLoftBlog\wp-content\themes\test\functions.php on line 3
+
+2023-11-03T10:53:30+00:00 CRITICAL Uncaught Error: Failed opening required 'H:\OSPanel\domains\WooCoomerceLoftBlog/wp-content/themes/test/inc/woocommerce-hooks.php' (include_path='.') in H:\OSPanel\domains\WooCoomerceLoftBlog\wp-content\themes\test\functions.php:3
+Stack trace:
+#0 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-settings.php(600): include()
+#1 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-config.php(96): require_once('H:\\OSPanel\\doma...')
+#2 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-load.php(50): require_once('H:\\OSPanel\\doma...')
+#3 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-blog-header.php(13): require_once('H:\\OSPanel\\doma...')
+#4 H:\OSPanel\domains\WooCoomerceLoftBlog\index.php(17): require('H:\\OSPanel\\doma...')
+#5 {main}
+  thrown in H:\OSPanel\domains\WooCoomerceLoftBlog\wp-content\themes\test\functions.php on line 3
+
+2023-11-03T10:54:16+00:00 CRITICAL Uncaught Error: Failed opening required 'H:\OSPanel\domains\WooCoomerceLoftBlog/wp-content/themes/test/inc/woocommerce-hooks.php' (include_path='.') in H:\OSPanel\domains\WooCoomerceLoftBlog\wp-content\themes\test\functions.php:3
+Stack trace:
+#0 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-settings.php(600): include()
+#1 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-config.php(96): require_once('H:\\OSPanel\\doma...')
+#2 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-load.php(50): require_once('H:\\OSPanel\\doma...')
+#3 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-admin\admin-ajax.php(22): require_once('H:\\OSPanel\\doma...')
+#4 {main}
+  thrown in H:\OSPanel\domains\WooCoomerceLoftBlog\wp-content\themes\test\functions.php on line 3
+
+2023-11-03T10:54:25+00:00 CRITICAL Uncaught Error: Failed opening required 'H:\OSPanel\domains\WooCoomerceLoftBlog/wp-content/themes/test\inc\woocommerce-hooks.php' (include_path='.') in H:\OSPanel\domains\WooCoomerceLoftBlog\wp-content\themes\test\functions.php:13
+Stack trace:
+#0 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-settings.php(600): include()
+#1 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-config.php(96): require_once('H:\\OSPanel\\doma...')
+#2 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-load.php(50): require_once('H:\\OSPanel\\doma...')
+#3 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-blog-header.php(13): require_once('H:\\OSPanel\\doma...')
+#4 H:\OSPanel\domains\WooCoomerceLoftBlog\index.php(17): require('H:\\OSPanel\\doma...')
+#5 {main}
+  thrown in H:\OSPanel\domains\WooCoomerceLoftBlog\wp-content\themes\test\functions.php on line 13
+
+2023-11-03T10:54:26+00:00 CRITICAL Uncaught Error: Failed opening required 'H:\OSPanel\domains\WooCoomerceLoftBlog/wp-content/themes/test\inc\woocommerce-hooks.php' (include_path='.') in H:\OSPanel\domains\WooCoomerceLoftBlog\wp-content\themes\test\functions.php:13
+Stack trace:
+#0 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-settings.php(600): include()
+#1 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-config.php(96): require_once('H:\\OSPanel\\doma...')
+#2 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-load.php(50): require_once('H:\\OSPanel\\doma...')
+#3 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-blog-header.php(13): require_once('H:\\OSPanel\\doma...')
+#4 H:\OSPanel\domains\WooCoomerceLoftBlog\index.php(17): require('H:\\OSPanel\\doma...')
+#5 {main}
+  thrown in H:\OSPanel\domains\WooCoomerceLoftBlog\wp-content\themes\test\functions.php on line 13
+
+2023-11-03T10:54:26+00:00 CRITICAL Uncaught Error: Failed opening required 'H:\OSPanel\domains\WooCoomerceLoftBlog/wp-content/themes/test\inc\woocommerce-hooks.php' (include_path='.') in H:\OSPanel\domains\WooCoomerceLoftBlog\wp-content\themes\test\functions.php:13
+Stack trace:
+#0 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-settings.php(600): include()
+#1 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-config.php(96): require_once('H:\\OSPanel\\doma...')
+#2 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-load.php(50): require_once('H:\\OSPanel\\doma...')
+#3 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-blog-header.php(13): require_once('H:\\OSPanel\\doma...')
+#4 H:\OSPanel\domains\WooCoomerceLoftBlog\index.php(17): require('H:\\OSPanel\\doma...')
+#5 {main}
+  thrown in H:\OSPanel\domains\WooCoomerceLoftBlog\wp-content\themes\test\functions.php on line 13
+
+2023-11-03T10:54:27+00:00 CRITICAL Uncaught Error: Failed opening required 'H:\OSPanel\domains\WooCoomerceLoftBlog/wp-content/themes/test\inc\woocommerce-hooks.php' (include_path='.') in H:\OSPanel\domains\WooCoomerceLoftBlog\wp-content\themes\test\functions.php:13
+Stack trace:
+#0 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-settings.php(600): include()
+#1 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-config.php(96): require_once('H:\\OSPanel\\doma...')
+#2 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-load.php(50): require_once('H:\\OSPanel\\doma...')
+#3 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-blog-header.php(13): require_once('H:\\OSPanel\\doma...')
+#4 H:\OSPanel\domains\WooCoomerceLoftBlog\index.php(17): require('H:\\OSPanel\\doma...')
+#5 {main}
+  thrown in H:\OSPanel\domains\WooCoomerceLoftBlog\wp-content\themes\test\functions.php on line 13
+
+2023-11-03T10:55:16+00:00 CRITICAL Uncaught Error: Failed opening required 'H:\OSPanel\domains\WooCoomerceLoftBlog/wp-content/themes/test/inc/woocommerce-hooks.php' (include_path='.') in H:\OSPanel\domains\WooCoomerceLoftBlog\wp-content\themes\test\functions.php:13
+Stack trace:
+#0 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-settings.php(600): include()
+#1 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-config.php(96): require_once('H:\\OSPanel\\doma...')
+#2 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-load.php(50): require_once('H:\\OSPanel\\doma...')
+#3 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-blog-header.php(13): require_once('H:\\OSPanel\\doma...')
+#4 H:\OSPanel\domains\WooCoomerceLoftBlog\index.php(17): require('H:\\OSPanel\\doma...')
+#5 {main}
+  thrown in H:\OSPanel\domains\WooCoomerceLoftBlog\wp-content\themes\test\functions.php on line 13
+
+2023-11-03T10:55:16+00:00 CRITICAL Uncaught Error: Failed opening required 'H:\OSPanel\domains\WooCoomerceLoftBlog/wp-content/themes/test/inc/woocommerce-hooks.php' (include_path='.') in H:\OSPanel\domains\WooCoomerceLoftBlog\wp-content\themes\test\functions.php:13
+Stack trace:
+#0 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-settings.php(600): include()
+#1 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-config.php(96): require_once('H:\\OSPanel\\doma...')
+#2 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-load.php(50): require_once('H:\\OSPanel\\doma...')
+#3 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-blog-header.php(13): require_once('H:\\OSPanel\\doma...')
+#4 H:\OSPanel\domains\WooCoomerceLoftBlog\index.php(17): require('H:\\OSPanel\\doma...')
+#5 {main}
+  thrown in H:\OSPanel\domains\WooCoomerceLoftBlog\wp-content\themes\test\functions.php on line 13
+
+2023-11-03T10:56:04+00:00 CRITICAL Uncaught Error: Failed opening required 'H:\OSPanel\domains\WooCoomerceLoftBlog/wp-content/themes/testwoocommerce/inc/woocommerce-hooks.php' (include_path='.') in H:\OSPanel\domains\WooCoomerceLoftBlog\wp-content\themes\test\functions.php:13
+Stack trace:
+#0 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-settings.php(600): include()
+#1 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-config.php(96): require_once('H:\\OSPanel\\doma...')
+#2 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-load.php(50): require_once('H:\\OSPanel\\doma...')
+#3 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-blog-header.php(13): require_once('H:\\OSPanel\\doma...')
+#4 H:\OSPanel\domains\WooCoomerceLoftBlog\index.php(17): require('H:\\OSPanel\\doma...')
+#5 {main}
+  thrown in H:\OSPanel\domains\WooCoomerceLoftBlog\wp-content\themes\test\functions.php on line 13
+
+2023-11-03T10:56:04+00:00 CRITICAL Uncaught Error: Failed opening required 'H:\OSPanel\domains\WooCoomerceLoftBlog/wp-content/themes/testwoocommerce/inc/woocommerce-hooks.php' (include_path='.') in H:\OSPanel\domains\WooCoomerceLoftBlog\wp-content\themes\test\functions.php:13
+Stack trace:
+#0 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-settings.php(600): include()
+#1 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-config.php(96): require_once('H:\\OSPanel\\doma...')
+#2 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-load.php(50): require_once('H:\\OSPanel\\doma...')
+#3 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-blog-header.php(13): require_once('H:\\OSPanel\\doma...')
+#4 H:\OSPanel\domains\WooCoomerceLoftBlog\index.php(17): require('H:\\OSPanel\\doma...')
+#5 {main}
+  thrown in H:\OSPanel\domains\WooCoomerceLoftBlog\wp-content\themes\test\functions.php on line 13
+
+2023-11-03T10:56:05+00:00 CRITICAL Uncaught Error: Failed opening required 'H:\OSPanel\domains\WooCoomerceLoftBlog/wp-content/themes/testwoocommerce/inc/woocommerce-hooks.php' (include_path='.') in H:\OSPanel\domains\WooCoomerceLoftBlog\wp-content\themes\test\functions.php:13
+Stack trace:
+#0 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-settings.php(600): include()
+#1 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-config.php(96): require_once('H:\\OSPanel\\doma...')
+#2 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-load.php(50): require_once('H:\\OSPanel\\doma...')
+#3 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-blog-header.php(13): require_once('H:\\OSPanel\\doma...')
+#4 H:\OSPanel\domains\WooCoomerceLoftBlog\index.php(17): require('H:\\OSPanel\\doma...')
+#5 {main}
+  thrown in H:\OSPanel\domains\WooCoomerceLoftBlog\wp-content\themes\test\functions.php on line 13
+
+2023-11-03T10:56:05+00:00 CRITICAL Uncaught Error: Failed opening required 'H:\OSPanel\domains\WooCoomerceLoftBlog/wp-content/themes/testwoocommerce/inc/woocommerce-hooks.php' (include_path='.') in H:\OSPanel\domains\WooCoomerceLoftBlog\wp-content\themes\test\functions.php:13
+Stack trace:
+#0 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-settings.php(600): include()
+#1 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-config.php(96): require_once('H:\\OSPanel\\doma...')
+#2 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-load.php(50): require_once('H:\\OSPanel\\doma...')
+#3 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-blog-header.php(13): require_once('H:\\OSPanel\\doma...')
+#4 H:\OSPanel\domains\WooCoomerceLoftBlog\index.php(17): require('H:\\OSPanel\\doma...')
+#5 {main}
+  thrown in H:\OSPanel\domains\WooCoomerceLoftBlog\wp-content\themes\test\functions.php on line 13
+
+2023-11-03T10:56:06+00:00 CRITICAL Uncaught Error: Failed opening required 'H:\OSPanel\domains\WooCoomerceLoftBlog/wp-content/themes/testwoocommerce/inc/woocommerce-hooks.php' (include_path='.') in H:\OSPanel\domains\WooCoomerceLoftBlog\wp-content\themes\test\functions.php:13
+Stack trace:
+#0 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-settings.php(600): include()
+#1 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-config.php(96): require_once('H:\\OSPanel\\doma...')
+#2 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-load.php(50): require_once('H:\\OSPanel\\doma...')
+#3 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-blog-header.php(13): require_once('H:\\OSPanel\\doma...')
+#4 H:\OSPanel\domains\WooCoomerceLoftBlog\index.php(17): require('H:\\OSPanel\\doma...')
+#5 {main}
+  thrown in H:\OSPanel\domains\WooCoomerceLoftBlog\wp-content\themes\test\functions.php on line 13
+
+2023-11-03T10:56:07+00:00 CRITICAL Uncaught Error: Failed opening required 'H:\OSPanel\domains\WooCoomerceLoftBlog/wp-content/themes/testwoocommerce/inc/woocommerce-hooks.php' (include_path='.') in H:\OSPanel\domains\WooCoomerceLoftBlog\wp-content\themes\test\functions.php:13
+Stack trace:
+#0 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-settings.php(600): include()
+#1 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-config.php(96): require_once('H:\\OSPanel\\doma...')
+#2 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-load.php(50): require_once('H:\\OSPanel\\doma...')
+#3 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-blog-header.php(13): require_once('H:\\OSPanel\\doma...')
+#4 H:\OSPanel\domains\WooCoomerceLoftBlog\index.php(17): require('H:\\OSPanel\\doma...')
+#5 {main}
+  thrown in H:\OSPanel\domains\WooCoomerceLoftBlog\wp-content\themes\test\functions.php on line 13
+
+2023-11-03T10:58:18+00:00 CRITICAL syntax error, unexpected end of file in H:\OSPanel\domains\WooCoomerceLoftBlog\wp-content\themes\test\woocommerce\inc\woocommerce-hooks.php on line 15
+

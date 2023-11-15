@@ -1,0 +1,4 @@
+2023-11-06T12:26:02+00:00 CRITICAL syntax error, unexpected single-quoted string "</pre>", expecting "," or ";" in H:\OSPanel\domains\WooCoomerceLoftBlog\wp-content\themes\test\functions.php on line 77
+
+2023-11-06T14:08:03+00:00 CRITICAL syntax error, unexpected token "}" in H:\OSPanel\domains\WooCoomerceLoftBlog\wp-content\themes\test\inc\woocommerce-hooks.php on line 12
+

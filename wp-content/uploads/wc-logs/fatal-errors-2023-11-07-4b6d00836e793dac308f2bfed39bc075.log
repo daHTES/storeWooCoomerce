@@ -1,0 +1,32 @@
+2023-11-07T11:49:55+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_filter(), 1 passed in H:\OSPanel\domains\WooCoomerceLoftBlog\wp-content\themes\test\inc\woocommerce-hooks.php on line 30 and at least 2 expected in H:\OSPanel\domains\WooCoomerceLoftBlog\wp-includes\plugin.php:121
+Stack trace:
+#0 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-content\themes\test\inc\woocommerce-hooks.php(30): add_filter()
+#1 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-content\themes\test\functions.php(72): require_once('H:\\OSPanel\\doma...')
+#2 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-settings.php(600): include('H:\\OSPanel\\doma...')
+#3 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-config.php(96): require_once('H:\\OSPanel\\doma...')
+#4 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-load.php(50): require_once('H:\\OSPanel\\doma...')
+#5 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-admin\admin-ajax.php(22): require_once('H:\\OSPanel\\doma...')
+#6 {main}
+  thrown in H:\OSPanel\domains\WooCoomerceLoftBlog\wp-includes\plugin.php on line 121
+
+2023-11-07T11:51:56+00:00 CRITICAL syntax error, unexpected single-quoted string "" in H:\OSPanel\domains\WooCoomerceLoftBlog\wp-content\themes\test\inc\woocommerce-hooks.php on line 36
+
+2023-11-07T11:56:16+00:00 CRITICAL Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, int given in H:\OSPanel\domains\WooCoomerceLoftBlog\wp-content\themes\test\inc\woocommerce-hooks.php:31
+Stack trace:
+#0 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-includes\class-wp-hook.php(310): {closure}()
+#1 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-includes\plugin.php(205): WP_Hook->apply_filters()
+#2 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-content\plugins\woocommerce\includes\class-wc-ajax.php(232): apply_filters()
+#3 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-content\plugins\woocommerce\includes\class-wc-ajax.php(472): WC_AJAX::get_refreshed_fragments()
+#4 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-includes\class-wp-hook.php(310): WC_AJAX::add_to_cart()
+#5 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#6 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-content\plugins\woocommerce\includes\class-wc-ajax.php(96): do_action()
+#8 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-includes\class-wp-hook.php(310): WC_AJAX::do_wc_ajax()
+#9 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters()
+#10 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-includes\plugin.php(517): WP_Hook->do_action()
+#11 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-includes\template-loader.php(13): do_action()
+#12 H:\OSPanel\domains\WooCoomerceLoftBlog\wp-blog-header.php(19): require_once('H:\\OSPanel\\doma...')
+#13 H:\OSPanel\domains\WooCoomerceLoftBlog\index.php(17): require('H:\\OSPanel\\doma...')
+#14 {main}
+  thrown in H:\OSPanel\domains\WooCoomerceLoftBlog\wp-content\themes\test\inc\woocommerce-hooks.php on line 31
+
